@@ -50,21 +50,34 @@ body, html{
     padding-bottom: 15px;
 }
 
-h1 {
+h2 {
     color: white;
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
 }
 
-.section1 {
+.section {
     color: white;
     font-size: 16px;
     display: flex;
     flex-direction: column;
-    background-color: rgba(255, 255, 255, 0.274);
-    margin: 0%;
+    background-color: rgba(255, 255, 255, 0.122);
+    border-top: white solid 2px;
+    border-bottom: white solid 2px;
+    padding: 5vw 10vw 5vw 10vw;
+    margin-top: 5vh;
 }
 
-.a {
+.liens {
+    color: white;
     text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+    margin: 2em 0 2vh 0 2em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+#logo {
 }
