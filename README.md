@@ -1,1 +1,1 @@
-# D-pot-Cours-Distanciel
+# Depot-Cours-Distanciel
